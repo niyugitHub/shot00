@@ -18,7 +18,7 @@ public:
 	void draw();
 
 	// 存在するか
-	bool isEXist() const { return m_isExist; }
+	bool isExist() const { return m_isExist; }
 
 private:
 	// グラフィックハンドル
